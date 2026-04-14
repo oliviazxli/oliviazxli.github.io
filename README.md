@@ -1,4 +1,4 @@
-# LI Zixin — Personal Portfolio Website
+# Personal Portfolio Website
 > Personal job-seeking portfolio for LI Zixin (Olivia), MSc candidate in AI and Business Analytics.
 
 🔗 **Live site:** [oliviazxli.github.io](https://oliviazxli.github.io)
